@@ -18,6 +18,5 @@ A simple movie app built with **SwiftUI** and **MVVM**, integrating with the [TM
 
 | List View | Detail View |
 |-----------|--------------|
-
-
+([short.gif](https://github.com/SagarRathode/TMDBMovieMVVM/edit/main/README.md#:~:text=short.gif))
 
