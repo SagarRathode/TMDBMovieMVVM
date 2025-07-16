@@ -16,6 +16,7 @@ A simple movie app built with **SwiftUI** and **MVVM**, integrating with the [TM
 
 ## 📸 Screenshots/GIF
 
-| List View | Detail View |
-|-----------|--------------|
-![short](https://github.com/SagarRathode/TMDBMovieMVVM/edit/main/README.md#:~:text=short.gif)
+
+![short](TMDBMovieApp-main/short.gif)
+
+![short](TMDBMovieApp-main/1.png) | ![short](TMDBMovieApp-main/2.png)
