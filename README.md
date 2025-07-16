@@ -5,7 +5,7 @@ A simple movie app built with **SwiftUI** and **MVVM**, integrating with the [TM
 ---
 
 ## 🚀 Features
-- ✅ Login and Signup ,Custom alertView,LinearGradient
+- ✅ Login and Signup ,Custom alertView,LinearGradient,ActivityIndicator,List
 - ✅ Fetch popular movies using TMDB API
 - ✅ Display movie title, overview, and poster image
 - ✅ Uses SwiftUI's `AsyncImage` for loading images
@@ -14,8 +14,10 @@ A simple movie app built with **SwiftUI** and **MVVM**, integrating with the [TM
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots/GIF
 
 | List View | Detail View |
 |-----------|--------------|
+
+
 
