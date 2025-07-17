@@ -1,9 +1,4 @@
-//
-//  MovieDetailsView.swift
-//  TMDBMovieApp
-//
-//  Created by Yogesh Patel on 16/04/24.
-//
+
 
 import SwiftUI
 import Kingfisher
