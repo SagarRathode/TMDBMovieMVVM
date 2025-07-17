@@ -1,9 +1,4 @@
-//
-//  MovieSearchViewModel.swift
-//  TMDBMovieApp
-//
-//  Created by Yogesh Patel on 19/04/24.
-//
+
 
 import Foundation
 
