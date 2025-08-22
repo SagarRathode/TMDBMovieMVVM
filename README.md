@@ -19,5 +19,5 @@ A simple movie app built with **SwiftUI** and **MVVM**, integrating with the [TM
 
 
 
-![short](TMDBMovieApp-main/1.png) ![short](TMDBMovieApp-main/2.png)
-![short](TMDBMovieApp-main/short.gif)
+![short](TMDBMovieApp/1.png) ![short](TMDBMovieApp/2.png)
+![short](TMDBMovieApp/short.gif)
