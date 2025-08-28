@@ -18,12 +18,10 @@ A simple movie app built with **SwiftUI** and **MVVM**, integrating with the [TM
 
 ## 🎬 Video Link: https://youtu.be/wOTo3ZRJXYg
 <p float="left">
-  <img src="TMDBMovieApp/1.png" width="200" />
-  <img src="TMDBMovieApp/2.png" width="200" />
   <img src="TMDBMovieApp/5.png" width="250" />
   <img src="TMDBMovieApp/6.png" width="250" />
-  
-  
+  <img src="TMDBMovieApp/1.png" width="200" />
+  <img src="TMDBMovieApp/2.png" width="200" />
 </p>
 
 
